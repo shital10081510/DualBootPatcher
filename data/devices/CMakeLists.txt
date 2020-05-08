@@ -34,6 +34,7 @@ set(files
     leeco.yml
     leagoo.yml
     lenovo.yml
+    lenovoa6000.yml
     lg.yml
     linnex.yml
     micromax.yml
